@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" />
+<a href="https://constantlabs.ai"><img src="assets/banner.svg" width="100%" /></a>
 
 <br><br>
 
@@ -14,27 +14,13 @@
 
 <img src="assets/divider.svg" width="100%" />
 
-</div>
-
 <br>
 
 <img src="assets/header-startup.svg" width="100%" />
 
-<table>
-<tr>
-<td>
 <br>
 
-**[Constant Labs](https://constantlabs.ai)** — End-to-end technology studio, Dubai
-
-AI agents, web & mobile apps, e-commerce, service robots, local AI deployment. We ship for restaurants, clinics, car shops, luxury brands, and more across the UAE.
-
-`AI Agents` &nbsp; `E-Commerce` &nbsp; `Mobile Apps` &nbsp; `Robotics` &nbsp; `Local AI`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://constantlabs.ai"><img src="assets/card-constantlabs.svg" width="100%" /></a>
 
 <br>
 
@@ -46,51 +32,11 @@ AI agents, web & mobile apps, e-commerce, service robots, local AI deployment. W
 
 <br>
 
-<!-- MUFAKKIR -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://mufakkir.app"><img src="assets/mufakkir.webp" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[MUFAKKIR](https://mufakkir.app)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
-
-Voice-to-text Arabic transcription with AI. Real-time speech recognition across **50+ languages** and **10+ Arabic dialects** — Gulf, Levantine, Egyptian, Maghrebi.
-
-`AI` &nbsp; `Speech-to-Text` &nbsp; `Arabic` &nbsp; `Multi-dialect`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://mufakkir.app"><img src="assets/card-mufakkir.svg" width="100%" /></a>
 
 <br>
 
-<!-- VOICETYPE -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/voicetype.webp" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[VOICETYPE](https://github.com/Astrobubu/Speak-to-Windows)** &nbsp; ![Repo](https://img.shields.io/badge/●_REPO-555?style=flat-square&labelColor=0F1419)
-
-Dictate anywhere on your PC. Hit a shortcut, speak, and words type directly into any active app — no copy-paste needed.
-
-`JavaScript` &nbsp; `Speech API` &nbsp; `Windows` &nbsp; `Hotkeys`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/card-voicetype.svg" width="100%" /></a>
 
 <br>
 
@@ -102,51 +48,11 @@ Dictate anywhere on your PC. Hit a shortcut, speak, and words type directly into
 
 <br>
 
-<!-- MOSQUE SILENCE -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/mosque-silence.webp" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[MOSQUE SILENCE](https://github.com/Astrobubu/MosqueSilence)** &nbsp; ![Repo](https://img.shields.io/badge/●_REPO-555?style=flat-square&labelColor=0F1419)
-
-Auto-silences your phone when you enter a mosque. GPS proximity detection with a curated UAE mosque database. Battery-efficient background service.
-
-`Flutter` &nbsp; `Dart` &nbsp; `Geolocation` &nbsp; `Android`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/card-mosque-silence.svg" width="100%" /></a>
 
 <br>
 
-<!-- CRESCENT WATCH -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://crescent-watch.vercel.app/"><img src="assets/crescent-watch.webp" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[CRESCENT WATCH](https://crescent-watch.vercel.app/)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
-
-Precision lunar crescent visibility tracker. Determine Ramadan, Eid, and Islamic calendar dates worldwide with interactive maps and scientific accuracy.
-
-`React` &nbsp; `Astronomy` &nbsp; `Maps` &nbsp; `Simulation`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://crescent-watch.vercel.app/"><img src="assets/card-crescent-watch.svg" width="100%" /></a>
 
 <br>
 
@@ -158,27 +64,7 @@ Precision lunar crescent visibility tracker. Determine Ramadan, Eid, and Islamic
 
 <br>
 
-<!-- PAPER TO PRODUCT -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://papertoproduct.vercel.app/"><img src="assets/papertoproduct.webp" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[PAPER TO PRODUCT](https://papertoproduct.vercel.app/)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
-
-Research intelligence platform. Search **225M+ papers** and **12M+ patents**, discover expired patents, and convert academic research into product specs with AI.
-
-`React` &nbsp; `AI` &nbsp; `Search` &nbsp; `SaaS`
-
-<br>
-</td>
-</tr>
-</table>
+<a href="https://papertoproduct.vercel.app/"><img src="assets/card-paper-to-product.svg" width="100%" /></a>
 
 <br>
 
@@ -190,27 +76,11 @@ Research intelligence platform. Search **225M+ papers** and **12M+ patents**, di
 
 <br>
 
-<!-- GUIDEON -->
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-<br>
-<a href="https://constantlabs.ai/robotics"><img src="assets/guideon.jpg" width="120" /></a>
-<br><br>
-</td>
-<td valign="top">
-<br>
-
-**[GUIDEON](https://constantlabs.ai/robotics)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
-
-Modular AI-powered kiosk robot. Fully 3D-printed, autonomous — reception, coffee service, queue management, education. Designed and built in Dubai.
-
-`Robotics` &nbsp; `AI` &nbsp; `3D Printing` &nbsp; `ROS`
+<a href="https://constantlabs.ai/robotics"><img src="assets/card-guideon.svg" width="100%" /></a>
 
 <br>
-</td>
-</tr>
-</table>
+
+<a href="https://constantlabs.ai/smartroads"><img src="assets/card-smartroads.svg" width="100%" /></a>
 
 <br>
 
@@ -221,8 +91,6 @@ Modular AI-powered kiosk robot. Fully 3D-printed, autonomous — reception, coff
 <img src="assets/header-stack.svg" width="100%" />
 
 <br>
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0F1419?style=flat-square&logo=python&logoColor=50A891)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F1419?style=flat-square&logo=typescript&logoColor=50A891)
@@ -245,15 +113,11 @@ Modular AI-powered kiosk robot. Fully 3D-printed, autonomous — reception, coff
 ![ESP32](https://img.shields.io/badge/ESP32-0F1419?style=flat-square&logo=espressif&logoColor=D4A13D)
 ![RPi](https://img.shields.io/badge/RPi-0F1419?style=flat-square&logo=raspberrypi&logoColor=D4A13D)
 
-</div>
-
 <br>
 
 <img src="assets/divider.svg" width="100%" />
 
 <br>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Astrobubu&show_icons=true&hide_border=true&bg_color=0F1419&title_color=50A891&text_color=888888&icon_color=8B62CC&count_private=true&ring_color=50A891" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrobubu&hide_border=true&background=0F1419&ring=50A891&fire=8B62CC&currStreakLabel=50A891&sideLabels=888888&currStreakNum=F0F4FA&sideNums=888888&dates=555555" width="48%" />

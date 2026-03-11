@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <pattern id="dg3" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.6" fill="#F0F4FA" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="o3a" cx="80%" cy="60%" r="35%">
+      <stop offset="0%" stop-color="#50A891" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#50A891" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="180" fill="#0F1419"/>
+  <rect width="900" height="180" fill="url(#dg3)"/>
+  <rect width="900" height="180" fill="url(#o3a)"/>
+  <rect x="1" y="1" width="898" height="178" fill="none" stroke="#F0F4FA" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M 0,20 L 0,0 L 20,0" fill="none" stroke="#50A891" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 880,0 L 900,0 L 900,20" fill="none" stroke="#50A891" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 0,160 L 0,180 L 20,180" fill="none" stroke="#50A891" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 880,180 L 900,180 L 900,160" fill="none" stroke="#50A891" stroke-opacity="0.4" stroke-width="2"/>
+  <rect x="820" y="20" width="55" height="22" fill="none" stroke="#555555" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="848" y="35" text-anchor="middle" fill="#888888" font-family="monospace" font-size="10" opacity="0.8">REPO</text>
+  <text x="40" y="48" fill="#F0F4FA" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="3">VOICETYPE</text>
+  <line x1="40" y1="60" x2="220" y2="60" stroke="#50A891" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="40" y="85" fill="#F0F4FA" font-family="monospace" font-size="13" opacity="0.65">Dictate anywhere on your PC.</text>
+  <text x="40" y="107" fill="#F0F4FA" font-family="monospace" font-size="12" opacity="0.45">Hit a shortcut, speak, and words type directly into any active</text>
+  <text x="40" y="125" fill="#F0F4FA" font-family="monospace" font-size="12" opacity="0.45">app — no copy-paste needed. Works in every text field on Windows.</text>
+  <text x="40" y="158" fill="#50A891" font-family="monospace" font-size="11" opacity="0.6" letter-spacing="1">JavaScript · Speech API · Windows · Hotkeys</text>
+  <text x="500" y="158" fill="#F0F4FA" font-family="monospace" font-size="10" opacity="0.3">github.com/Astrobubu/Speak-to-Windows</text>
+  <circle cx="650" cy="30" r="0.9" fill="#50A891" opacity="0.25"/>
+  <circle cx="760" cy="150" r="1" fill="#D4A13D" opacity="0.2"/>
+</svg>
