@@ -18,12 +18,23 @@
 
 <br>
 
-## `// STARTUP`
+<img src="assets/header-startup.svg" width="100%" />
 
-> **[Constant Labs](https://constantlabs.ai)** — End-to-end technology studio, Dubai
->
-> AI agents, web & mobile apps, e-commerce, service robots, local AI deployment.
-> We ship for restaurants, clinics, car shops, luxury brands, and more across the UAE.
+<table>
+<tr>
+<td>
+<br>
+
+**[Constant Labs](https://constantlabs.ai)** — End-to-end technology studio, Dubai
+
+AI agents, web & mobile apps, e-commerce, service robots, local AI deployment. We ship for restaurants, clinics, car shops, luxury brands, and more across the UAE.
+
+`AI Agents` &nbsp; `E-Commerce` &nbsp; `Mobile Apps` &nbsp; `Robotics` &nbsp; `Local AI`
+
+<br>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -31,21 +42,22 @@
 
 <br>
 
-## `// AI & LANGUAGE`
+<img src="assets/header-ai-language.svg" width="100%" />
 
+<br>
+
+<!-- MUFAKKIR -->
 <table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<a href="https://mufakkir.app"><img src="assets/mufakkir.webp" width="110" /></a>
-<br>
-<sub><b>LIVE</b></sub>
+<a href="https://mufakkir.app"><img src="assets/mufakkir.webp" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[MUFAKKIR](https://mufakkir.app)**
+**[MUFAKKIR](https://mufakkir.app)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
 
 Voice-to-text Arabic transcription with AI. Real-time speech recognition across **50+ languages** and **10+ Arabic dialects** — Gulf, Levantine, Egyptian, Maghrebi.
 
@@ -54,20 +66,24 @@ Voice-to-text Arabic transcription with AI. Real-time speech recognition across 
 <br>
 </td>
 </tr>
+</table>
+
+<br>
+
+<!-- VOICETYPE -->
+<table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/voicetype.webp" width="110" /></a>
-<br>
-<sub><b>REPO</b></sub>
+<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/voicetype.webp" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[VOICETYPE](https://github.com/Astrobubu/Speak-to-Windows)**
+**[VOICETYPE](https://github.com/Astrobubu/Speak-to-Windows)** &nbsp; ![Repo](https://img.shields.io/badge/●_REPO-555?style=flat-square&labelColor=0F1419)
 
-Dictate anywhere on your PC. Hit a shortcut, speak, and words type directly into any active app — no copy-paste.
+Dictate anywhere on your PC. Hit a shortcut, speak, and words type directly into any active app — no copy-paste needed.
 
 `JavaScript` &nbsp; `Speech API` &nbsp; `Windows` &nbsp; `Hotkeys`
 
@@ -78,21 +94,26 @@ Dictate anywhere on your PC. Hit a shortcut, speak, and words type directly into
 
 <br>
 
-## `// ISLAMIC & SPIRITUAL`
+<img src="assets/divider.svg" width="100%" />
 
+<br>
+
+<img src="assets/header-islamic.svg" width="100%" />
+
+<br>
+
+<!-- MOSQUE SILENCE -->
 <table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/mosque-silence.webp" width="110" /></a>
-<br>
-<sub><b>REPO</b></sub>
+<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/mosque-silence.webp" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[MOSQUE SILENCE](https://github.com/Astrobubu/MosqueSilence)**
+**[MOSQUE SILENCE](https://github.com/Astrobubu/MosqueSilence)** &nbsp; ![Repo](https://img.shields.io/badge/●_REPO-555?style=flat-square&labelColor=0F1419)
 
 Auto-silences your phone when you enter a mosque. GPS proximity detection with a curated UAE mosque database. Battery-efficient background service.
 
@@ -101,18 +122,22 @@ Auto-silences your phone when you enter a mosque. GPS proximity detection with a
 <br>
 </td>
 </tr>
+</table>
+
+<br>
+
+<!-- CRESCENT WATCH -->
+<table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<a href="https://crescent-watch.vercel.app/"><img src="assets/crescent-watch.webp" width="110" /></a>
-<br>
-<sub><b>LIVE</b></sub>
+<a href="https://crescent-watch.vercel.app/"><img src="assets/crescent-watch.webp" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[CRESCENT WATCH](https://crescent-watch.vercel.app/)**
+**[CRESCENT WATCH](https://crescent-watch.vercel.app/)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
 
 Precision lunar crescent visibility tracker. Determine Ramadan, Eid, and Islamic calendar dates worldwide with interactive maps and scientific accuracy.
 
@@ -125,21 +150,26 @@ Precision lunar crescent visibility tracker. Determine Ramadan, Eid, and Islamic
 
 <br>
 
-## `// RESEARCH & CREATIVE`
+<img src="assets/divider.svg" width="100%" />
 
+<br>
+
+<img src="assets/header-research.svg" width="100%" />
+
+<br>
+
+<!-- PAPER TO PRODUCT -->
 <table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<a href="https://papertoproduct.vercel.app/"><img src="assets/papertoproduct.webp" width="110" /></a>
-<br>
-<sub><b>LIVE</b></sub>
+<a href="https://papertoproduct.vercel.app/"><img src="assets/papertoproduct.webp" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[PAPER TO PRODUCT](https://papertoproduct.vercel.app/)**
+**[PAPER TO PRODUCT](https://papertoproduct.vercel.app/)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
 
 Research intelligence platform. Search **225M+ papers** and **12M+ patents**, discover expired patents, and convert academic research into product specs with AI.
 
@@ -152,21 +182,26 @@ Research intelligence platform. Search **225M+ papers** and **12M+ patents**, di
 
 <br>
 
-## `// HARDWARE & ROBOTICS`
+<img src="assets/divider.svg" width="100%" />
 
+<br>
+
+<img src="assets/header-hardware.svg" width="100%" />
+
+<br>
+
+<!-- GUIDEON -->
 <table>
 <tr>
-<td width="130" align="center" valign="top">
+<td width="140" align="center" valign="top">
 <br>
-<img src="assets/guideon.jpg" width="110" />
-<br>
-<sub><b>LIVE</b></sub>
+<a href="https://constantlabs.ai/robotics"><img src="assets/guideon.jpg" width="120" /></a>
 <br><br>
 </td>
 <td valign="top">
 <br>
 
-**[GUIDEON](https://constantlabs.ai/robotics)**
+**[GUIDEON](https://constantlabs.ai/robotics)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0F1419)
 
 Modular AI-powered kiosk robot. Fully 3D-printed, autonomous — reception, coffee service, queue management, education. Designed and built in Dubai.
 
@@ -183,7 +218,9 @@ Modular AI-powered kiosk robot. Fully 3D-printed, autonomous — reception, coff
 
 <br>
 
-## `// STACK`
+<img src="assets/header-stack.svg" width="100%" />
+
+<br>
 
 <div align="center">
 
