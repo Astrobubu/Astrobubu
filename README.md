@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/mobile/banner.svg" width="100%" />
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/banner.svg">
+  <img src="assets/mobile/banner.svg" width="100%" />
+</picture>
 
 <br>
 
@@ -12,43 +15,85 @@
 
 <br>
 
-<img src="assets/mobile/header-startup.svg" width="100%" />
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-startup.svg">
+  <img src="assets/mobile/header-startup.svg" width="100%" />
+</picture>
 
-<a href="https://constantlabs.ai"><img src="assets/mobile/card-constantlabs.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/mobile/header-ai-language.svg" width="100%" />
-
-<a href="https://mufakkir.app"><img src="assets/mobile/card-mufakkir.svg" width="100%" /></a>
-
-<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/mobile/card-voicetype.svg" width="100%" /></a>
+<a href="https://constantlabs.ai"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-constantlabs.svg">
+  <img src="assets/mobile/card-constantlabs.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<img src="assets/mobile/header-islamic.svg" width="100%" />
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-ai-language.svg">
+  <img src="assets/mobile/header-ai-language.svg" width="100%" />
+</picture>
 
-<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/mobile/card-mosque-silence.svg" width="100%" /></a>
+<a href="https://mufakkir.app"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-mufakkir.svg">
+  <img src="assets/mobile/card-mufakkir.svg" width="100%" />
+</picture></a>
 
-<a href="https://crescent-watch.vercel.app/"><img src="assets/mobile/card-crescent-watch.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/mobile/header-research.svg" width="100%" />
-
-<a href="https://papertoproduct.vercel.app/"><img src="assets/mobile/card-paper-to-product.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/mobile/header-hardware.svg" width="100%" />
-
-<a href="https://constantlabs.ai/robotics"><img src="assets/mobile/card-guideon.svg" width="100%" /></a>
-
-<a href="https://constantlabs.ai/smartroads"><img src="assets/mobile/card-smartroads.svg" width="100%" /></a>
+<a href="https://github.com/Astrobubu/Speak-to-Windows"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-voicetype.svg">
+  <img src="assets/mobile/card-voicetype.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<img src="assets/mobile/header-stack.svg" width="100%" />
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-islamic.svg">
+  <img src="assets/mobile/header-islamic.svg" width="100%" />
+</picture>
+
+<a href="https://github.com/Astrobubu/MosqueSilence"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-mosque-silence.svg">
+  <img src="assets/mobile/card-mosque-silence.svg" width="100%" />
+</picture></a>
+
+<a href="https://crescent-watch.vercel.app/"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-crescent-watch.svg">
+  <img src="assets/mobile/card-crescent-watch.svg" width="100%" />
+</picture></a>
+
+<br>
+
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-research.svg">
+  <img src="assets/mobile/header-research.svg" width="100%" />
+</picture>
+
+<a href="https://papertoproduct.vercel.app/"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-paper-to-product.svg">
+  <img src="assets/mobile/card-paper-to-product.svg" width="100%" />
+</picture></a>
+
+<br>
+
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-hardware.svg">
+  <img src="assets/mobile/header-hardware.svg" width="100%" />
+</picture>
+
+<a href="https://constantlabs.ai/robotics"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-guideon.svg">
+  <img src="assets/mobile/card-guideon.svg" width="100%" />
+</picture></a>
+
+<a href="https://constantlabs.ai/smartroads"><picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/card-smartroads.svg">
+  <img src="assets/mobile/card-smartroads.svg" width="100%" />
+</picture></a>
+
+<br>
+
+<picture>
+  <source media="(min-width: 768px)" srcset="assets/desktop/header-stack.svg">
+  <img src="assets/mobile/header-stack.svg" width="100%" />
+</picture>
 
 <br>
 

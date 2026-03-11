@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <pattern id="dg1" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.6" fill="#F0F4FA" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="o1a" cx="20%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#A03A80" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#A03A80" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="o1b" cx="80%" cy="30%" r="35%">
+      <stop offset="0%" stop-color="#50A891" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#50A891" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="180" fill="#0F1419"/>
+  <rect width="900" height="180" fill="url(#dg1)"/>
+  <rect width="900" height="180" fill="url(#o1a)"/>
+  <rect width="900" height="180" fill="url(#o1b)"/>
+  <rect x="1" y="1" width="898" height="178" fill="none" stroke="#F0F4FA" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M 0,20 L 0,0 L 20,0" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 880,0 L 900,0 L 900,20" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 0,160 L 0,180 L 20,180" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 880,180 L 900,180 L 900,160" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="2"/>
+  <text x="40" y="48" fill="#F0F4FA" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="3">CONSTANT LABS</text>
+  <text x="340" y="50" fill="#A03A80" font-family="monospace" font-size="11" opacity="0.7">constantlabs.ai</text>
+  <line x1="40" y1="65" x2="300" y2="65" stroke="#A03A80" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="40" y="90" fill="#F0F4FA" font-family="monospace" font-size="13" opacity="0.65">End-to-end technology studio — Dubai, UAE</text>
+  <text x="40" y="112" fill="#F0F4FA" font-family="monospace" font-size="12" opacity="0.45">AI agents, web &amp; mobile apps, e-commerce, service robots, local AI</text>
+  <text x="40" y="130" fill="#F0F4FA" font-family="monospace" font-size="12" opacity="0.45">deployment. We ship for restaurants, clinics, car shops, luxury brands.</text>
+  <text x="40" y="160" fill="#A03A80" font-family="monospace" font-size="11" opacity="0.6" letter-spacing="1">AI Agents · E-Commerce · Mobile Apps · Robotics · Local AI</text>
+  <circle cx="820" cy="60" r="1" fill="#A03A80" opacity="0.3"/>
+  <circle cx="860" cy="120" r="0.8" fill="#50A891" opacity="0.25"/>
+  <circle cx="880" cy="40" r="1.2" fill="#D4A13D" opacity="0.2"/>
+</svg>
