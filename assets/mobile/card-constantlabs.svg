@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <pattern id="dotGrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.6" fill="#F0F4FA" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="orbMagenta" cx="20%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#A03A80" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#A03A80" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbCyan" cx="80%" cy="30%" r="35%">
+      <stop offset="0%" stop-color="#50A891" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#50A891" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A03A80" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#A03A80" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="200" fill="#0F1419"/>
+  <rect width="400" height="200" fill="url(#dotGrid)"/>
+  <rect width="400" height="200" fill="url(#orbMagenta)"/>
+  <rect width="400" height="200" fill="url(#orbCyan)"/>
+
+  <!-- Border -->
+  <rect x="0.75" y="0.75" width="398.5" height="198.5" fill="none" stroke="#F0F4FA" stroke-opacity="0.1" stroke-width="1.5"/>
+
+  <!-- Corner brackets -->
+  <path d="M 0,20 L 0,0 L 20,0" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 380,0 L 400,0 L 400,20" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 0,180 L 0,200 L 20,200" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 380,200 L 400,200 L 400,180" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="24" y="42" fill="#F0F4FA" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="3">CONSTANT LABS</text>
+
+  <!-- URL -->
+  <text x="240" y="42" fill="#A03A80" opacity="0.5" font-family="monospace" font-size="9">constantlabs.ai</text>
+
+  <!-- Title underline -->
+  <rect x="24" y="54" width="176" height="1" fill="url(#titleLine)"/>
+
+  <!-- Description -->
+  <text x="24" y="76" fill="#F0F4FA" opacity="0.65" font-family="monospace" font-size="11">End-to-end technology studio — Dubai, UAE</text>
+  <text x="24" y="94" fill="#F0F4FA" opacity="0.5" font-family="monospace" font-size="11">AI agents, web &amp; mobile apps, e-commerce,</text>
+  <text x="24" y="112" fill="#F0F4FA" opacity="0.5" font-family="monospace" font-size="11">service robots, local AI deployment.</text>
+
+  <!-- Tags -->
+  <text x="24" y="140" fill="#A03A80" opacity="0.6" font-family="monospace" font-size="10">AI Agents · E-Commerce · Mobile Apps</text>
+  <text x="24" y="156" fill="#A03A80" opacity="0.6" font-family="monospace" font-size="10">Robotics · Local AI</text>
+
+  <!-- Particles -->
+  <circle cx="340" cy="160" r="1" fill="#A03A80" opacity="0.35"/>
+  <circle cx="370" cy="80" r="0.8" fill="#50A891" opacity="0.3"/>
+  <circle cx="355" cy="190" r="1.1" fill="#A03A80" opacity="0.2"/>
+</svg>

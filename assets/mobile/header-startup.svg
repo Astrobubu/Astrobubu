@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="36" viewBox="0 0 400 36">
+  <rect width="400" height="36" fill="#0F1419"/>
+  <rect x="0.75" y="0.75" width="398.5" height="34.5" fill="none" stroke="#A03A80" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <!-- Corner brackets -->
+  <path d="M 0,6 L 0,0 L 6,0" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 394,0 L 400,0 L 400,6" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 0,30 L 0,36 L 6,36" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M 394,36 L 400,36 L 400,30" fill="none" stroke="#A03A80" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <!-- Accent line -->
+  <line x1="12" y1="18" x2="28" y2="18" stroke="#A03A80" stroke-opacity="0.6" stroke-width="1.5"/>
+
+  <!-- Label -->
+  <text x="36" y="22" fill="#A03A80" font-family="monospace" font-size="12" letter-spacing="2">// STARTUP</text>
+</svg>

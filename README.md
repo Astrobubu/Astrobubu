@@ -1,8 +1,11 @@
 <div align="center">
 
-<a href="https://constantlabs.ai"><img src="assets/banner.svg" width="100%" /></a>
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/banner.svg">
+  <img src="assets/banner.svg" width="100%" />
+</picture>
 
-<br><br>
+<br>
 
 <a href="https://constantlabs.ai"><img src="https://img.shields.io/badge/CONSTANTLABS.AI-0F1419?style=for-the-badge&logo=safari&logoColor=50A891&labelColor=0F1419&color=0F1419" /></a>
 &nbsp;&nbsp;
@@ -12,83 +15,85 @@
 
 <br>
 
-<img src="assets/divider.svg" width="100%" />
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-startup.svg">
+  <img src="assets/header-startup.svg" width="100%" />
+</picture>
+
+<a href="https://constantlabs.ai"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-constantlabs.svg">
+  <img src="assets/card-constantlabs.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<img src="assets/header-startup.svg" width="100%" />
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-ai-language.svg">
+  <img src="assets/header-ai-language.svg" width="100%" />
+</picture>
+
+<a href="https://mufakkir.app"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-mufakkir.svg">
+  <img src="assets/card-mufakkir.svg" width="100%" />
+</picture></a>
+
+<a href="https://github.com/Astrobubu/Speak-to-Windows"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-voicetype.svg">
+  <img src="assets/card-voicetype.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<a href="https://constantlabs.ai"><img src="assets/card-constantlabs.svg" width="100%" /></a>
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-islamic.svg">
+  <img src="assets/header-islamic.svg" width="100%" />
+</picture>
+
+<a href="https://github.com/Astrobubu/MosqueSilence"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-mosque-silence.svg">
+  <img src="assets/card-mosque-silence.svg" width="100%" />
+</picture></a>
+
+<a href="https://crescent-watch.vercel.app/"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-crescent-watch.svg">
+  <img src="assets/card-crescent-watch.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<img src="assets/divider.svg" width="100%" />
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-research.svg">
+  <img src="assets/header-research.svg" width="100%" />
+</picture>
+
+<a href="https://papertoproduct.vercel.app/"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-paper-to-product.svg">
+  <img src="assets/card-paper-to-product.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<img src="assets/header-ai-language.svg" width="100%" />
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-hardware.svg">
+  <img src="assets/header-hardware.svg" width="100%" />
+</picture>
+
+<a href="https://constantlabs.ai/robotics"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-guideon.svg">
+  <img src="assets/card-guideon.svg" width="100%" />
+</picture></a>
+
+<a href="https://constantlabs.ai/smartroads"><picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/card-smartroads.svg">
+  <img src="assets/card-smartroads.svg" width="100%" />
+</picture></a>
 
 <br>
 
-<a href="https://mufakkir.app"><img src="assets/card-mufakkir.svg" width="100%" /></a>
-
-<br>
-
-<a href="https://github.com/Astrobubu/Speak-to-Windows"><img src="assets/card-voicetype.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/divider.svg" width="100%" />
-
-<br>
-
-<img src="assets/header-islamic.svg" width="100%" />
-
-<br>
-
-<a href="https://github.com/Astrobubu/MosqueSilence"><img src="assets/card-mosque-silence.svg" width="100%" /></a>
-
-<br>
-
-<a href="https://crescent-watch.vercel.app/"><img src="assets/card-crescent-watch.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/divider.svg" width="100%" />
-
-<br>
-
-<img src="assets/header-research.svg" width="100%" />
-
-<br>
-
-<a href="https://papertoproduct.vercel.app/"><img src="assets/card-paper-to-product.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/divider.svg" width="100%" />
-
-<br>
-
-<img src="assets/header-hardware.svg" width="100%" />
-
-<br>
-
-<a href="https://constantlabs.ai/robotics"><img src="assets/card-guideon.svg" width="100%" /></a>
-
-<br>
-
-<a href="https://constantlabs.ai/smartroads"><img src="assets/card-smartroads.svg" width="100%" /></a>
-
-<br>
-
-<img src="assets/divider.svg" width="100%" />
-
-<br>
-
-<img src="assets/header-stack.svg" width="100%" />
+<picture>
+  <source media="(max-width: 768px)" srcset="assets/mobile/header-stack.svg">
+  <img src="assets/header-stack.svg" width="100%" />
+</picture>
 
 <br>
 
@@ -115,14 +120,10 @@
 
 <br>
 
-<img src="assets/divider.svg" width="100%" />
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Astrobubu&show_icons=true&hide_border=true&bg_color=0F1419&title_color=50A891&text_color=888888&icon_color=8B62CC&count_private=true&ring_color=50A891" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrobubu&hide_border=true&background=0F1419&ring=50A891&fire=8B62CC&currStreakLabel=50A891&sideLabels=888888&currStreakNum=F0F4FA&sideNums=888888&dates=555555" width="48%" />
 
-<br><br>
+<br>
 
 <sub>applied physics & astrophysics &nbsp;·&nbsp; UAE space hackathon winner &nbsp;·&nbsp; Dubai, UAE</sub>
 
