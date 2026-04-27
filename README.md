@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Mohammed+Altigani"><img src="https://img.shields.io/badge/GOOGLE_PLAY-0F1419?style=for-the-badge&logo=googleplay&logoColor=4BA370&labelColor=0F1419&color=0F1419" /></a>
 &nbsp;&nbsp;
-<a href="mailto:workmail6093@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F1419?style=for-the-badge&logo=gmail&logoColor=8B62CC&labelColor=0F1419&color=0F1419" /></a>
+<a href="mailto:akhmad6093@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F1419?style=for-the-badge&logo=gmail&logoColor=8B62CC&labelColor=0F1419&color=0F1419" /></a>
 
 <br>
 
